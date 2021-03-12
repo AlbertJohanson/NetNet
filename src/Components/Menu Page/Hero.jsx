@@ -1,23 +1,23 @@
-import React from 'react'
+/* eslint-disable jsx-a11y/anchor-is-valid */
+import React from "react";
 
-/* Assets */
 
-import logo from '../../../public/assets/logo.svg'
 
 /* Style */
-import '../../assets/style/Components/Hero.css'
+import "../../assets/style/Components/Hero.scss";
+import Description from "./Description/Description";
+import Header from "./Header/Header";
 function Hero() {
-    return (
-        <>
-          <div className="hero">
-            <div className="hero__header">
-                 <div className="hero__header--logo">
-                    <img src={logo} alt="Logo de NetNet"/>   
-                 </div>   
-            </div>    
-          </div>  
-        </>
-    )
+  return (
+    <>
+      <div className="hero">
+        <div className="hero__top--gradient"></div>
+        <Header />
+        <Description />
+        <div className="hero__bottom--gradient"></div>
+      </div>
+    </>
+  );
 }
 
-export default Hero
+export default Hero;
