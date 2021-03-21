@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NetNet/static/css/main.6b3f0227.chunk.css",
-    "main.js": "/NetNet/static/js/main.0a3fc2f3.chunk.js",
-    "main.js.map": "/NetNet/static/js/main.0a3fc2f3.chunk.js.map",
-    "runtime-main.js": "/NetNet/static/js/runtime-main.3348dd7d.js",
-    "runtime-main.js.map": "/NetNet/static/js/runtime-main.3348dd7d.js.map",
-    "static/js/2.f4770700.chunk.js": "/NetNet/static/js/2.f4770700.chunk.js",
-    "static/js/2.f4770700.chunk.js.map": "/NetNet/static/js/2.f4770700.chunk.js.map",
-    "index.html": "/NetNet/index.html",
-    "static/css/main.6b3f0227.chunk.css.map": "/NetNet/static/css/main.6b3f0227.chunk.css.map",
-    "static/js/2.f4770700.chunk.js.LICENSE.txt": "/NetNet/static/js/2.f4770700.chunk.js.LICENSE.txt"
+    "main.css": "/AlbertJohanson/NetNet/static/css/main.6b3f0227.chunk.css",
+    "main.js": "/AlbertJohanson/NetNet/static/js/main.0a3fc2f3.chunk.js",
+    "main.js.map": "/AlbertJohanson/NetNet/static/js/main.0a3fc2f3.chunk.js.map",
+    "runtime-main.js": "/AlbertJohanson/NetNet/static/js/runtime-main.7107ea9e.js",
+    "runtime-main.js.map": "/AlbertJohanson/NetNet/static/js/runtime-main.7107ea9e.js.map",
+    "static/js/2.f4770700.chunk.js": "/AlbertJohanson/NetNet/static/js/2.f4770700.chunk.js",
+    "static/js/2.f4770700.chunk.js.map": "/AlbertJohanson/NetNet/static/js/2.f4770700.chunk.js.map",
+    "index.html": "/AlbertJohanson/NetNet/index.html",
+    "static/css/main.6b3f0227.chunk.css.map": "/AlbertJohanson/NetNet/static/css/main.6b3f0227.chunk.css.map",
+    "static/js/2.f4770700.chunk.js.LICENSE.txt": "/AlbertJohanson/NetNet/static/js/2.f4770700.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3348dd7d.js",
+    "static/js/runtime-main.7107ea9e.js",
     "static/js/2.f4770700.chunk.js",
     "static/css/main.6b3f0227.chunk.css",
     "static/js/main.0a3fc2f3.chunk.js"
