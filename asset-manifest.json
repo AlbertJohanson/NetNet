@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NetNet/static/css/main.d00c67e8.chunk.css",
+    "main.js": "/NetNet/static/js/main.7fb486fd.chunk.js",
+    "main.js.map": "/NetNet/static/js/main.7fb486fd.chunk.js.map",
+    "runtime-main.js": "/NetNet/static/js/runtime-main.3348dd7d.js",
+    "runtime-main.js.map": "/NetNet/static/js/runtime-main.3348dd7d.js.map",
+    "static/js/2.8d7e9b6a.chunk.js": "/NetNet/static/js/2.8d7e9b6a.chunk.js",
+    "static/js/2.8d7e9b6a.chunk.js.map": "/NetNet/static/js/2.8d7e9b6a.chunk.js.map",
+    "index.html": "/NetNet/index.html",
+    "static/css/main.d00c67e8.chunk.css.map": "/NetNet/static/css/main.d00c67e8.chunk.css.map",
+    "static/js/2.8d7e9b6a.chunk.js.LICENSE.txt": "/NetNet/static/js/2.8d7e9b6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3348dd7d.js",
+    "static/js/2.8d7e9b6a.chunk.js",
+    "static/css/main.d00c67e8.chunk.css",
+    "static/js/main.7fb486fd.chunk.js"
+  ]
+}
