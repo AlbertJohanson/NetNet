@@ -5,10 +5,10 @@ import { movieData } from '../../data/movie-data'
 /* Style */
 import '../../assets/style/Components/SlideRows.sass'
 import '../../assets/style/Components/Card.sass'
+import { Link } from 'react-router-dom'
 function Sections() {
 
     const [slideRow] = useState(movieData)
-
 
     
     return (
@@ -19,9 +19,9 @@ function Sections() {
               <h1>{slideItem.title}</h1>
               <div className="Sections_cards">
               {slideItem.data.map((item) => (
-                   <div key={item.id} className='Card__container'>
+                   <Link to={`./title/${slideItem.id}/${item.movieid}`} key={item.movieid}  className='Card__container'>
                        <img src={item.image} alt=""/>
-                   </div>
+                   </Link>
               ))}
               </div>
             </div>
